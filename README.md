@@ -20,8 +20,10 @@
 
 - 🖥️ I am a Software Developer | Mobile Developer | Full stack Developer | MernStack Developer.
 - 🖥️  See my portfolio at [MyPortfolio](https://haythemgalelem.tk).
-- ✉️  You can contact me at [haythemgalelem@gmail.com](haythemgalelem@gmail.com)
+- ✉️  You can contact me at [haythemgalelem@gmail.com](mailto:haythemgalelem@gmail.com)
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haythemgalelem)](https://github.com/haythemgalelem/)
 
 ## 🔧 Technologies & Tools
 <div align="center">
