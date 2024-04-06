@@ -76,6 +76,7 @@
 		</tr>
 	</table>
 </div>
-
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=haythemgalelem&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="haythemgalelem" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=haythemgalelem&layout=compact&theme=radical&hide_border=true" alt="haythemgalelem" /></p>
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=haythemgalelem&theme=highcontrast" alt="GitHub Streak" />
+	<img src="https://github.com/haythemgalelem/haythemgalelem/assets/26298059/077fc84c-45bf-4c5e-84f2-9fb6b427d17c" alt="GitHub Streak" />
+</div>
