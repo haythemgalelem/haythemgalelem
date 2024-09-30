@@ -18,7 +18,7 @@
 
 ## :sassy_man:  About me
 
-- 🖥️ I am a Software Developer | Mobile Developer | Full stack Developer | MernStack Developer.
+- 🖥️ I am a DevOps Developer | Software Developer | Mobile Developer | Full stack Developer | MernStack Developer.
 - 🖥️  See my portfolio at [MyPortfolio](https://haythemgalelem.com).
 - ✉️  You can contact me at [haythemgalelem@gmail.com](mailto:haythemgalelem@gmail.com)
 <br>
