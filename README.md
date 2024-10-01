@@ -78,7 +78,7 @@
 </div>
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=haythemgalelem&theme=highcontrast" alt="GitHub Streak" />
-	<img src="https://github.com/user-attachments/assets/39df0e91-b950-4de0-8138-350aa7f5f6ff" alt="GitHub Streak" />
-	<img src="https://github.com/user-attachments/assets/458b34ce-49b9-4140-9501-cde57a734a7b" alt="GitHub Streak" />
-	<img src="https://github.com/user-attachments/assets/a909d081-3d94-4456-9601-e9e016ba051e" alt="GitHub Streak" />
+	<img src="https://github.com/user-attachments/assets/572a5fba-c96a-4063-b568-111f1742a3f7" alt="GitHub Streak" />
+	<img src="https://github.com/user-attachments/assets/963b6d06-b8f6-42e9-b472-dc21b8f7dffe" alt="GitHub Streak" />
+	<img src="https://github.com/user-attachments/assets/4fdbf6e3-415b-4483-8538-509d7216448f" alt="GitHub Streak" />
 </div>
